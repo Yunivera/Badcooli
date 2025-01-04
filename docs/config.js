@@ -19,6 +19,7 @@
         "@cdnjs": "https://cdnjs.cloudflare.com/ajax/libs/"
       }
     },
-    "siteMapUrl": "https://zuixjs.github.io/news-blog"
+    "siteMapUrl": "https://zuixjs.github.io/news-blog",
+    "environment": "default"
   });
 })();

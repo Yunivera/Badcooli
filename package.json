@@ -178,7 +178,8 @@
     "which": "^2.0.2",
     "wrap-ansi": "^8.1.0",
     "wrap-ansi-cjs": "^7.0.0",
-    "ws": "^8.18.0"
+    "ws": "^8.18.0",
+    "zuix": "^0.4.3"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0"

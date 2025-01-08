@@ -7,8 +7,13 @@
     <description></description>
     <language>en</language>
     <copyright></copyright>
+<<<<<<< HEAD
     <lastBuildDate>Sat, 04 Jan 2025 08:59:54 +0000</lastBuildDate>
     <pubDate>Sat, 04 Jan 2025 08:59:54 +0000</pubDate>
+=======
+    <lastBuildDate>Sun, 05 Jan 2025 16:08:13 +0300</lastBuildDate>
+    <pubDate>Sun, 05 Jan 2025 16:08:13 +0300</pubDate>
+>>>>>>> 3dd4d99847d96b0b088e9e4b2e9402b2fb8f8a6c
     <image>
         <title>News Blog</title>
         <url>https://zuixjs.github.io/news-blog/images/icons/icon-152x152.png</url>
@@ -102,6 +107,31 @@
         <media:description></media:description>
     </item>
     <item>
+<<<<<<< HEAD
+=======
+        <title>Hum nub naje wa.</title>
+        <link>https://zuixjs.github.io/news-blog/content/europe/hum-nub-naje-wa/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/europe/hum-nub-naje-wa/</guid>
+        <description>Zit luihgem nivu kehme omi veppeb nuhhi sok wupij sejnir.</description>
+        <pubDate>Sun, 22 Aug 2021 18:36:01 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/europe/hum-nub-naje-wa/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/europe/hum-nub-naje-wa/https://picsum.photos/seed/europe022/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Europe</title>
+        <link>https://zuixjs.github.io/news-blog/content/europe/index.json</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/europe/index.json</guid>
+        <description>No description provided.</description>
+        <pubDate>Sun, 05 Jan 2025 16:08:13 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/europe/index.json" rel="self" />
+        <dc:creator></dc:creator>
+    </item>
+    <item>
+>>>>>>> 3dd4d99847d96b0b088e9e4b2e9402b2fb8f8a6c
         <title>Ivrus juere nuuscaw tin.</title>
         <link>https://zuixjs.github.io/news-blog/content/europe/ivrus-juere-nuuscaw-tin/</link>
         <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/europe/ivrus-juere-nuuscaw-tin/</guid>
@@ -180,6 +210,499 @@
         <media:description></media:description>
     </item>
     <item>
+<<<<<<< HEAD
+=======
+        <title>Tesribci tudca lujepo ibwoh.</title>
+        <link>https://zuixjs.github.io/news-blog/content/europe/tesribci-tudca-lujepo-ibwoh/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/europe/tesribci-tudca-lujepo-ibwoh/</guid>
+        <description>Beronvon jep pa tuva noshinvo dalfi horewid kevzo sow soh.</description>
+        <pubDate>Mon, 22 Feb 2021 22:39:17 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/europe/tesribci-tudca-lujepo-ibwoh/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/europe/tesribci-tudca-lujepo-ibwoh/https://picsum.photos/seed/europe00/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Uv nihfes oniogu vevvin jebabwe.</title>
+        <link>https://zuixjs.github.io/news-blog/content/europe/uv-nihfes-oniogu-vevvin-jebabw/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/europe/uv-nihfes-oniogu-vevvin-jebabw/</guid>
+        <description>Sef hunih dujnob sepi udu jutrufro zetvalo nujof jomuc bas.</description>
+        <pubDate>Sun, 16 May 2021 14:47:12 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/europe/uv-nihfes-oniogu-vevvin-jebabw/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/europe/uv-nihfes-oniogu-vevvin-jebabw/https://picsum.photos/seed/europe09/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Veud fud picuwpe.</title>
+        <link>https://zuixjs.github.io/news-blog/content/europe/veud-fud-picuwpe/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/europe/veud-fud-picuwpe/</guid>
+        <description>Tole getmojjis ji ben la tun umozizud gace niite buiv.</description>
+        <pubDate>Tue, 21 Sep 2021 14:15:14 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/europe/veud-fud-picuwpe/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/europe/veud-fud-picuwpe/https://picsum.photos/seed/europe07/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Vigwec sof pejho laufzeg kafi.</title>
+        <link>https://zuixjs.github.io/news-blog/content/europe/vigwec-sof-pejho-laufzeg-kafi/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/europe/vigwec-sof-pejho-laufzeg-kafi/</guid>
+        <description>Miw sib amuaz ve hubfo kosa cirinre saikerol ezousihe vosfik.</description>
+        <pubDate>Mon, 16 Aug 2021 16:41:01 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/europe/vigwec-sof-pejho-laufzeg-kafi/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/europe/vigwec-sof-pejho-laufzeg-kafi/https://picsum.photos/seed/europe011/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Wihno wite ipefis.</title>
+        <link>https://zuixjs.github.io/news-blog/content/europe/wihno-wite-ipefis/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/europe/wihno-wite-ipefis/</guid>
+        <description>Pelut co morne hiwo ejzo ibvihi solephu beto higpu keogimom.</description>
+        <pubDate>Fri, 18 Mar 2022 04:50:16 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/europe/wihno-wite-ipefis/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/europe/wihno-wite-ipefis/https://picsum.photos/seed/europe010/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Zo hinombip cotca lemkig.</title>
+        <link>https://zuixjs.github.io/news-blog/content/europe/zo-hinombip-cotca-lemkig/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/europe/zo-hinombip-cotca-lemkig/</guid>
+        <description>Ojto ekiwo adkokah cogisoj ufja hebkobga acohew jedu owuucaki dopsemige.</description>
+        <pubDate>Fri, 18 Feb 2022 14:56:29 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/europe/zo-hinombip-cotca-lemkig/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/europe/zo-hinombip-cotca-lemkig/https://picsum.photos/seed/europe032/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Arja aro zuh migceme wu.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/arja-aro-zuh-migceme-wu/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/arja-aro-zuh-migceme-wu/</guid>
+        <description>Ice sujfetif epuf nipfes deviomu az das dukwewiv jisownuj nes.</description>
+        <pubDate>Tue, 14 Sep 2021 01:11:05 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/arja-aro-zuh-migceme-wu/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/arja-aro-zuh-migceme-wu/https://picsum.photos/seed/top023/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Ater noviragiw wo atudor.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/ater-noviragiw-wo-atudor/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/ater-noviragiw-wo-atudor/</guid>
+        <description>Vige okpe ol din rubhohe cewo openujec tewajoki eka neti.</description>
+        <pubDate>Wed, 23 Jun 2021 06:51:54 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/ater-noviragiw-wo-atudor/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/ater-noviragiw-wo-atudor/https://picsum.photos/seed/top09/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Bomzi idevigi wol emi.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/bomzi-idevigi-wol-emi/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/bomzi-idevigi-wol-emi/</guid>
+        <description>Ron wor ijecoleg le avsun izbit zuod acudem zeami zeugu.</description>
+        <pubDate>Mon, 20 Dec 2021 00:35:45 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/bomzi-idevigi-wol-emi/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/bomzi-idevigi-wol-emi/https://picsum.photos/seed/top03/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Ce kuwut pig.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/ce-kuwut-pig/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/ce-kuwut-pig/</guid>
+        <description>Mazolip legno woj ejvahco nojid dezogodu gejekzi ce di cidom.</description>
+        <pubDate>Fri, 05 Nov 2021 11:03:56 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/ce-kuwut-pig/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/ce-kuwut-pig/https://picsum.photos/seed/top014/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Damse binkenlod repvoh akuzes rude.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/damse-binkenlod-repvoh-akuzes-/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/damse-binkenlod-repvoh-akuzes-/</guid>
+        <description>Asa tehuhof cud nocede reci lomgetnul icogow hijvinzet vuzup dukuf.</description>
+        <pubDate>Tue, 07 Sep 2021 03:13:04 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/damse-binkenlod-repvoh-akuzes-/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/damse-binkenlod-repvoh-akuzes-/https://picsum.photos/seed/top032/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Di volabi seciw zekgov jej.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/di-volabi-seciw-zekgov-jej/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/di-volabi-seciw-zekgov-jej/</guid>
+        <description>Zalbasli wewsoj muwi lumer ese ri dil wojic nicgo copluhfo.</description>
+        <pubDate>Sun, 04 Apr 2021 01:57:45 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/di-volabi-seciw-zekgov-jej/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/di-volabi-seciw-zekgov-jej/https://picsum.photos/seed/top07/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Ej se pidtas ne.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/ej-se-pidtas-ne/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/ej-se-pidtas-ne/</guid>
+        <description>Iwa ore dejle lujore joduk hice soddozo wurawid pez zefajhiz.</description>
+        <pubDate>Thu, 20 May 2021 02:07:52 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/ej-se-pidtas-ne/" rel="self" />
+        <dc:creator>J. Doez</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/ej-se-pidtas-ne/https://picsum.photos/seed/top016/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Ekitogwev gizarjur le pa.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/ekitogwev-gizarjur-le-pa/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/ekitogwev-gizarjur-le-pa/</guid>
+        <description>Purroj ukehoin ziwtin govtif so one ogakef bukerav inefu melo.</description>
+        <pubDate>Fri, 19 Mar 2021 09:05:12 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/ekitogwev-gizarjur-le-pa/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/ekitogwev-gizarjur-le-pa/https://picsum.photos/seed/top011/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Fekemuz lano leb sebin.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/fekemuz-lano-leb-sebin/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/fekemuz-lano-leb-sebin/</guid>
+        <description>Va peuw we ra ku kordo virok vodina ma ohkuf.</description>
+        <pubDate>Fri, 05 Feb 2021 01:18:22 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/fekemuz-lano-leb-sebin/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/fekemuz-lano-leb-sebin/https://picsum.photos/seed/top029/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Gerol jumuh patgev.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/gerol-jumuh-patgev/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/gerol-jumuh-patgev/</guid>
+        <description>Imfe horo ubace ges jemijwo liseh oto raze izinokov hadileb.</description>
+        <pubDate>Sun, 28 Feb 2021 05:41:26 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/gerol-jumuh-patgev/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/gerol-jumuh-patgev/https://picsum.photos/seed/top05/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Godej owi hopi fipufivut.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/godej-owi-hopi-fipufivut/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/godej-owi-hopi-fipufivut/</guid>
+        <description>Inoro omuti gek kiwdumup sapil tiz sogov ni cuco teule.</description>
+        <pubDate>Sat, 27 Nov 2021 07:44:08 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/godej-owi-hopi-fipufivut/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/godej-owi-hopi-fipufivut/https://picsum.photos/seed/top025/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Goin julot tosgika lenrov.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/goin-julot-tosgika-lenrov/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/goin-julot-tosgika-lenrov/</guid>
+        <description>Jujso botas sezzi pol omarihhi zewet novoje ajeta edbi reguru.</description>
+        <pubDate>Thu, 18 Mar 2021 10:41:10 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/goin-julot-tosgika-lenrov/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/goin-julot-tosgika-lenrov/https://picsum.photos/seed/top06/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Ilujho osza ogaak sani ifgik.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/ilujho-osza-ogaak-sani-ifgik/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/ilujho-osza-ogaak-sani-ifgik/</guid>
+        <description>Vokoz utatirek asizir vo itoki ah midav wescut wawnaf fi.</description>
+        <pubDate>Fri, 03 Sep 2021 04:38:36 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/ilujho-osza-ogaak-sani-ifgik/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/ilujho-osza-ogaak-sani-ifgik/https://picsum.photos/seed/top01/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Im bukwilec dihi.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/im-bukwilec-dihi/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/im-bukwilec-dihi/</guid>
+        <description>Moadno vagvotze ojofob pu oforedur rude kep cobnezsov lihwu cewgudrom.</description>
+        <pubDate>Sat, 02 Oct 2021 23:13:50 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/im-bukwilec-dihi/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/im-bukwilec-dihi/https://picsum.photos/seed/top019/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Top Stories</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/index.json</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/index.json</guid>
+        <description>No description provided.</description>
+        <pubDate>Sun, 05 Jan 2025 16:08:13 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/index.json" rel="self" />
+        <dc:creator></dc:creator>
+    </item>
+    <item>
+        <title>Is kamew fiwdi deide ifelic.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/is-kamew-fiwdi-deide-ifelic/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/is-kamew-fiwdi-deide-ifelic/</guid>
+        <description>Hawzaogi tekhop banwosim ojopa moeli re zaweiw egke hahiswi facek.</description>
+        <pubDate>Thu, 17 Feb 2022 02:19:24 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/is-kamew-fiwdi-deide-ifelic/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/is-kamew-fiwdi-deide-ifelic/https://picsum.photos/seed/top04/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Iwi tu enowoj vizid tar.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/iwi-tu-enowoj-vizid-tar/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/iwi-tu-enowoj-vizid-tar/</guid>
+        <description>Jenketli jihigi erimuh vakitlid pinif ajooci bamzob rojji inpu kat.</description>
+        <pubDate>Tue, 19 Oct 2021 08:58:33 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/iwi-tu-enowoj-vizid-tar/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/iwi-tu-enowoj-vizid-tar/https://picsum.photos/seed/top024/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Jupet govigco waapiwes vim wowcifji.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/jupet-govigco-waapiwes-vim-wow/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/jupet-govigco-waapiwes-vim-wow/</guid>
+        <description>Ruvjac mek til uwlok atehuv kotige liprison aclat ji do.</description>
+        <pubDate>Tue, 18 Jan 2022 01:01:02 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/jupet-govigco-waapiwes-vim-wow/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/jupet-govigco-waapiwes-vim-wow/https://picsum.photos/seed/top012/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Letopi sosekwuj am wa rorsow.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/letopi-sosekwuj-am-wa-rorsow/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/letopi-sosekwuj-am-wa-rorsow/</guid>
+        <description>Li ekigomine opfawef zat cosi dofos saazi feup zowgok jibiw.</description>
+        <pubDate>Thu, 10 Mar 2022 18:53:55 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/letopi-sosekwuj-am-wa-rorsow/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/letopi-sosekwuj-am-wa-rorsow/https://picsum.photos/seed/top026/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Mehfi ok dapon.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/mehfi-ok-dapon/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/mehfi-ok-dapon/</guid>
+        <description>Ijle apetidiw dorri hooteep omimek roow zekpono fopkudrum dev zemne.</description>
+        <pubDate>Fri, 03 Dec 2021 03:34:09 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/mehfi-ok-dapon/" rel="self" />
+        <dc:creator></dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/mehfi-ok-dapon/https://picsum.photos/seed/top022/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Motmindom kec ma ol niw.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/motmindom-kec-ma-ol-niw/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/motmindom-kec-ma-ol-niw/</guid>
+        <description>Fuwmo mevromek he ibod god civsagig bamso tetol efmok uwho.</description>
+        <pubDate>Sat, 18 Sep 2021 00:41:10 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/motmindom-kec-ma-ol-niw/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/motmindom-kec-ma-ol-niw/https://picsum.photos/seed/top020/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Mu ikkize ko puv.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/mu-ikkize-ko-puv/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/mu-ikkize-ko-puv/</guid>
+        <description>Kibpo ro puhpor ihkes zascohu jijge sed tu oc du.</description>
+        <pubDate>Sun, 13 Feb 2022 23:07:21 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/mu-ikkize-ko-puv/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/mu-ikkize-ko-puv/https://picsum.photos/seed/top02/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Popse wocjickiz ne.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/popse-wocjickiz-ne/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/popse-wocjickiz-ne/</guid>
+        <description>Wilihe imsojhu pozda galoh wekripuko zeezoge sahgus non eglof conon.</description>
+        <pubDate>Fri, 10 Dec 2021 10:12:12 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/popse-wocjickiz-ne/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/popse-wocjickiz-ne/https://picsum.photos/seed/top08/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Quick start guide</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/quick-start/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/quick-start/</guid>
+        <description>A brief overview of this template structure, content management and publishing.</description>
+        <pubDate>Sat, 19 Mar 2022 16:36:37 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/quick-start/" rel="self" />
+        <dc:creator>Gene</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/quick-start/https://picsum.photos/seed/top027/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Savjaf fide me rerju.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/savjaf-fide-me-rerju/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/savjaf-fide-me-rerju/</guid>
+        <description>Fosa ihwete nippeso re nec bi lodmov mosac opdes meh.</description>
+        <pubDate>Wed, 02 Jun 2021 03:52:17 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/savjaf-fide-me-rerju/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/savjaf-fide-me-rerju/https://picsum.photos/seed/top00/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Sid kinjizboh si vi cakno.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/sid-kinjizboh-si-vi-cakno/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/sid-kinjizboh-si-vi-cakno/</guid>
+        <description>Giivnet ju dewwej ro me nijol wasdod jipjej adhilon nop.</description>
+        <pubDate>Mon, 05 Jul 2021 07:03:10 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/sid-kinjizboh-si-vi-cakno/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/sid-kinjizboh-si-vi-cakno/https://picsum.photos/seed/top017/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Soreghi johehho foari.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/soreghi-johehho-foari/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/soreghi-johehho-foari/</guid>
+        <description>If epe cilaji rujgakseb zegwef soekewo hucu jeeh lojo ehi.</description>
+        <pubDate>Fri, 18 Mar 2022 11:41:44 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/soreghi-johehho-foari/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/soreghi-johehho-foari/https://picsum.photos/seed/top030/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Vefziw ecfe zime vookiem ogevo.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/vefziw-ecfe-zime-vookiem-ogevo/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/vefziw-ecfe-zime-vookiem-ogevo/</guid>
+        <description>Wew gicco wowtoh ra pe roftu ok megep awpor ebeul.</description>
+        <pubDate>Tue, 11 Jan 2022 20:24:04 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/vefziw-ecfe-zime-vookiem-ogevo/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/vefziw-ecfe-zime-vookiem-ogevo/https://picsum.photos/seed/top015/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Wued memfiflol akoh mofkid.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/wued-memfiflol-akoh-mofkid/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/wued-memfiflol-akoh-mofkid/</guid>
+        <description>Rus figiwu fuvos epaze vueki hiknus je uwkonfi ze lema.</description>
+        <pubDate>Mon, 12 Apr 2021 22:00:51 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/wued-memfiflol-akoh-mofkid/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/wued-memfiflol-akoh-mofkid/https://picsum.photos/seed/top018/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Zihir lir tuhoj voko.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/zihir-lir-tuhoj-voko/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/zihir-lir-tuhoj-voko/</guid>
+        <description>Odge erpog mukadetor olcifgej guv hiugode jej hipujom vo cogwihme.</description>
+        <pubDate>Sun, 09 Jan 2022 12:42:14 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/zihir-lir-tuhoj-voko/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/zihir-lir-tuhoj-voko/https://picsum.photos/seed/top013/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Zofu fu pocje.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/zofu-fu-pocje/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/zofu-fu-pocje/</guid>
+        <description>Realioko ilgik golci jukwoj pomhir kenego migow aveikoris covi ivriw.</description>
+        <pubDate>Tue, 17 Aug 2021 01:53:57 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/zofu-fu-pocje/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/zofu-fu-pocje/https://picsum.photos/seed/top010/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+        <title>Zotlo epaej luwafas fili hef.</title>
+        <link>https://zuixjs.github.io/news-blog/content/top/zotlo-epaej-luwafas-fili-hef/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/top/zotlo-epaej-luwafas-fili-hef/</guid>
+        <description>Afefuwme pezur cospe zuco tis tevni hem taem fapfeszib fizcitmo.</description>
+        <pubDate>Fri, 04 Feb 2022 13:30:41 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/content/top/zotlo-epaej-luwafas-fili-hef/" rel="self" />
+        <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
+        <media:content medium="image" width="300" height="125"
+                       url="https://zuixjs.github.io/news-blog/content/top/zotlo-epaej-luwafas-fili-hef/https://picsum.photos/seed/top028/320/200" />
+        <media:credit></media:credit>
+        <media:description></media:description>
+    </item>
+    <item>
+>>>>>>> 3dd4d99847d96b0b088e9e4b2e9402b2fb8f8a6c
         <title>Apipo agooti olhos tudetos jiwapi.</title>
         <link>https://zuixjs.github.io/news-blog/content/travel/apipo-agooti-olhos-tudetos-jiw/</link>
         <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/travel/apipo-agooti-olhos-tudetos-jiw/</guid>
@@ -353,7 +876,11 @@
         <link>https://zuixjs.github.io/news-blog/content/travel/index.json</link>
         <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/travel/index.json</guid>
         <description>No description provided.</description>
+<<<<<<< HEAD
         <pubDate>Sat, 04 Jan 2025 08:59:54 +0000</pubDate>
+=======
+        <pubDate>Sun, 05 Jan 2025 16:08:13 +0300</pubDate>
+>>>>>>> 3dd4d99847d96b0b088e9e4b2e9402b2fb8f8a6c
         <atom:link href="https://zuixjs.github.io/news-blog/content/travel/index.json" rel="self" />
         <dc:creator></dc:creator>
     </item>
@@ -1439,7 +1966,11 @@
         <link>https://zuixjs.github.io/news-blog/content/world/index.json</link>
         <guid isPermaLink="true">https://zuixjs.github.io/news-blog/content/world/index.json</guid>
         <description>No description provided.</description>
+<<<<<<< HEAD
         <pubDate>Sat, 04 Jan 2025 08:59:54 +0000</pubDate>
+=======
+        <pubDate>Sun, 05 Jan 2025 16:08:13 +0300</pubDate>
+>>>>>>> 3dd4d99847d96b0b088e9e4b2e9402b2fb8f8a6c
         <atom:link href="https://zuixjs.github.io/news-blog/content/world/index.json" rel="self" />
         <dc:creator></dc:creator>
     </item>
@@ -1781,5 +2312,62 @@
         <media:credit></media:credit>
         <media:description></media:description>
     </item>
+<<<<<<< HEAD
+=======
+    <item>
+        <title>Landing Page</title>
+        <link>https://zuixjs.github.io/news-blog/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/</guid>
+        <description>A brand new *zuix.js* project!</description>
+        <pubDate>Sun, 05 Jan 2025 16:08:13 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/" rel="self" />
+        <dc:creator></dc:creator>
+    </item>
+    <item>
+        <title></title>
+        <link>https://zuixjs.github.io/news-blog/ui/_inc/content-frame/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/ui/_inc/content-frame/</guid>
+        <description></description>
+        <pubDate>Sun, 05 Jan 2025 16:08:13 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/ui/_inc/content-frame/" rel="self" />
+        <dc:creator></dc:creator>
+    </item>
+    <item>
+        <title>About</title>
+        <link>https://zuixjs.github.io/news-blog/about/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/about/</guid>
+        <description>A news blog template inspired by G.News</description>
+        <pubDate>Sun, 05 Jan 2025 16:08:13 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/about/" rel="self" />
+        <dc:creator></dc:creator>
+    </item>
+    <item>
+        <title>News Blog</title>
+        <link>https://zuixjs.github.io/news-blog/home/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/home/</guid>
+        <description>A news blog template inspired by G.News</description>
+        <pubDate>Sun, 05 Jan 2025 16:08:13 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/home/" rel="self" />
+        <dc:creator></dc:creator>
+    </item>
+    <item>
+        <title>Saved bookmarks</title>
+        <link>https://zuixjs.github.io/news-blog/saved/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/saved/</guid>
+        <description>A news blog template inspired by G.News</description>
+        <pubDate>Sun, 05 Jan 2025 16:08:13 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/saved/" rel="self" />
+        <dc:creator></dc:creator>
+    </item>
+    <item>
+        <title>Search</title>
+        <link>https://zuixjs.github.io/news-blog/search/</link>
+        <guid isPermaLink="true">https://zuixjs.github.io/news-blog/search/</guid>
+        <description>A news blog template inspired by G.News</description>
+        <pubDate>Sun, 05 Jan 2025 16:08:13 +0300</pubDate>
+        <atom:link href="https://zuixjs.github.io/news-blog/search/" rel="self" />
+        <dc:creator></dc:creator>
+    </item>
+>>>>>>> 3dd4d99847d96b0b088e9e4b2e9402b2fb8f8a6c
 </channel>
 </rss>

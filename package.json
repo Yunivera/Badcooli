@@ -31,9 +31,9 @@
   "homepage": "https://zuixjs.github.io/news-blog/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/zuixjs/news-blog.git"
+    "url": "git://github.com/blueriver29/badcooli.git"
   },
-  "bugs": "https://github.com/zuixjs/zuix-web-starter/issues",
+  "bugs": "https://github.com/blueriver29/badcooli.git/issues",
   "dependencies": {
     "animate.css": "^4.1.1",
     "flex-layout-attribute": "^1.0.3",

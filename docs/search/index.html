@@ -676,15 +676,15 @@ Turn on JavaScript to access this site content.
         <div #sections>
             
                 <div>
-                    <div #name>travel</div>
-                </div>
-            
-                <div>
                     <div #name>europe</div>
                 </div>
             
                 <div>
                     <div #name>top</div>
+                </div>
+            
+                <div>
+                    <div #name>travel</div>
                 </div>
             
                 <div>
@@ -695,17 +695,6 @@ Turn on JavaScript to access this site content.
     </div>
     <script>
       let contentSections = [];
-      
-      contentSections['travel'] = {
-        section: 'travel',
-        title: 'Travel',
-        page: {
-          url: '/content/travel/index.json',
-          filePathStem: '/content/travel/index',
-          inputPath: './source/content/travel/index.liquid',
-          outputPath: 'docs/content/travel/index.json'
-        }
-      };
       
       contentSections['europe'] = {
         section: 'europe',
@@ -729,6 +718,17 @@ Turn on JavaScript to access this site content.
         }
       };
       
+      contentSections['travel'] = {
+        section: 'travel',
+        title: 'Travel',
+        page: {
+          url: '/content/travel/index.json',
+          filePathStem: '/content/travel/index',
+          inputPath: './source/content/travel/index.liquid',
+          outputPath: 'docs/content/travel/index.json'
+        }
+      };
+      
       contentSections['world'] = {
         section: 'world',
         title: 'World',
@@ -743,11 +743,7 @@ Turn on JavaScript to access this site content.
       self.zuixEditor = null;
       zuix.context('zuix-editor', function(ctx) {
         zuixEditor = ctx
-<<<<<<< HEAD
-        zuixEditor.data = {"app":{"title":"News Blog","baseUrl":"/","language":"en","resourcePath":"/app/","libraryPath":{"@lib":"https://zuixjs.github.io/zkit/lib/1.2/","@hgui":"https://genielabs.github.io/homegenie-web-ui/app/","@cdnjs":"https://cdnjs.cloudflare.com/ajax/libs/"},"zuixjs.github.io":{"baseUrl":"/news-blog/","resourcePath":"/news-blog/app/","libraryPath":{"@lib":"https://zuixjs.github.io/zkit/lib/1.2/","@hgui":"https://genielabs.github.io/homegenie-web-ui/app/","@cdnjs":"https://cdnjs.cloudflare.com/ajax/libs/"}},"siteMapUrl":"https://zuixjs.github.io/news-blog","environment":"default"},"eleventy":{"version":"2.0.1","generator":"Eleventy v2.0.1","env":{"source":"cli","runMode":"build","config":"/workspaces/Badcooli/.eleventy.js","root":"/workspaces/Badcooli","isServerless":false}},"date":"Last Modified","elasticlunr":true,"layout":"immersive.liquid","permalink":"/search/index.html","header":"search","tags":["templates"],"group":"templates","options":"none","icon":"newspaper","order":0,"theme":"none","title":"Search","description":"A news blog template inspired by G.News","keywords":["blog","lifestyle"],"page":{"date":"2025-01-04T08:59:01.093Z","inputPath":"./source/ui/search/index.liquid","fileSlug":"search","filePathStem":"/ui/search/index","outputFileExtension":"html","templateSyntax":"liquid","url":"/search/","outputPath":"docs/search/index.html"}};
-=======
-        zuixEditor.data = {"app":{"title":"News Blog","baseUrl":"/","language":"en","resourcePath":"/app/","libraryPath":{"@lib":"https://zuixjs.github.io/zkit/lib/1.2/","@hgui":"https://genielabs.github.io/homegenie-web-ui/app/","@cdnjs":"https://cdnjs.cloudflare.com/ajax/libs/"},"zuixjs.github.io":{"baseUrl":"/news-blog/","resourcePath":"/news-blog/app/","libraryPath":{"@lib":"https://zuixjs.github.io/zkit/lib/1.2/","@hgui":"https://genielabs.github.io/homegenie-web-ui/app/","@cdnjs":"https://cdnjs.cloudflare.com/ajax/libs/"}},"siteMapUrl":"https://zuixjs.github.io/news-blog","environment":"default"},"eleventy":{"version":"2.0.1","generator":"Eleventy v2.0.1","env":{"source":"cli","runMode":"serve","config":"C:/Users/PIUS/Desktop/hh/badcooli/.eleventy.js","root":"C:/Users/PIUS/Desktop/hh/badcooli","isServerless":false}},"date":"Last Modified","elasticlunr":true,"layout":"immersive.liquid","permalink":"/search/index.html","header":"search","tags":["templates"],"group":"templates","options":"none","icon":"newspaper","order":0,"theme":"none","title":"Search","description":"A news blog template inspired by G.News","keywords":["blog","lifestyle"],"page":{"date":"2025-01-03T16:53:49.233Z","inputPath":"./source/ui/search/index.liquid","fileSlug":"search","filePathStem":"/ui/search/index","outputFileExtension":"html","templateSyntax":"liquid","url":"/search/","outputPath":"docs/search/index.html"}};
->>>>>>> 3dd4d99847d96b0b088e9e4b2e9402b2fb8f8a6c
+        zuixEditor.data = {"app":{"title":"News Blog","baseUrl":"/","language":"en","resourcePath":"/app/","libraryPath":{"@lib":"https://zuixjs.github.io/zkit/lib/1.2/","@hgui":"https://genielabs.github.io/homegenie-web-ui/app/","@cdnjs":"https://cdnjs.cloudflare.com/ajax/libs/"},"zuixjs.github.io":{"baseUrl":"/news-blog/","resourcePath":"/news-blog/app/","libraryPath":{"@lib":"https://zuixjs.github.io/zkit/lib/1.2/","@hgui":"https://genielabs.github.io/homegenie-web-ui/app/","@cdnjs":"https://cdnjs.cloudflare.com/ajax/libs/"}},"siteMapUrl":"https://github.com/blueriver29/badcooli.git","environment":"default"},"eleventy":{"version":"2.0.1","generator":"Eleventy v2.0.1","env":{"source":"cli","runMode":"build","config":"/workspaces/Badcooli/.eleventy.js","root":"/workspaces/Badcooli","isServerless":false}},"date":"Last Modified","elasticlunr":true,"layout":"immersive.liquid","permalink":"/search/index.html","header":"search","tags":["templates"],"group":"templates","options":"none","icon":"newspaper","order":0,"theme":"none","title":"Search","description":"A news blog template inspired by G.News","keywords":["blog","lifestyle"],"page":{"date":"2025-01-16T08:31:55.772Z","inputPath":"./source/ui/search/index.liquid","fileSlug":"search","filePathStem":"/ui/search/index","outputFileExtension":"html","templateSyntax":"liquid","url":"/search/","outputPath":"docs/search/index.html"}};
       });
       function setEditorData(pageData, hideEdit) {
         zuix.context('zuix-editor', function(ed) {

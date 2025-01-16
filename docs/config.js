@@ -19,7 +19,6 @@
         "@cdnjs": "https://cdnjs.cloudflare.com/ajax/libs/"
       }
     },
-    "siteMapUrl": "https://zuixjs.github.io/news-blog",
-    "environment": "default"
+    "siteMapUrl": "https://github.com/blueriver29/badcooli.git"
   });
 })();

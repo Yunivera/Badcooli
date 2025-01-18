@@ -71,7 +71,7 @@
     },
     "app": {
       "title": "News Blog",
-      "baseUrl": "/",
+      "baseUrl": "/",https://github.com/deepalgae/badcooli
       "language": "en",
       "resourcePath": "/app/",
       "libraryPath": {

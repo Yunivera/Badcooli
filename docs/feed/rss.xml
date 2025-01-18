@@ -2,8 +2,8 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
     <title>News Blog</title>
-    <link>https://github.com/blueriver29/badcooli.git</link>
-    <atom:link href="https://github.com/blueriver29/badcooli.git/feed/rss.xml" rel="self"></atom:link>
+    <link>https://github.com/deepalgae/badcooli.git</link>
+    <atom:link href="https://github.com/deepalgae/badcooli.git/feed/rss.xml" rel="self"></atom:link>
     <description></description>
     <language>en</language>
     <copyright></copyright>
@@ -16,8 +16,8 @@
     </image>
     <item>
         <title></title>
-        <link>https://github.com/blueriver29/badcooli.git/ui/_inc/content-frame/</link>
-        <guid isPermaLink="true">https://github.com/blueriver29/badcooli.git/ui/_inc/content-frame/</guid>
+        <link>https://github.com/deepalgae/badcooli.git/ui/_inc/content-frame/</link>
+        <guid isPermaLink="true">https://github.com/deepalgae/badcooli.git/ui/_inc/content-frame/</guid>
         <description></description>
         <pubDate>Thu, 16 Jan 2025 08:33:03 +0000</pubDate>
         <atom:link href="https://github.com/blueriver29/badcooli.git/ui/_inc/content-frame/" rel="self" />
@@ -25,24 +25,24 @@
     </item>
     <item>
         <title>Aca hi mashalhuj.</title>
-        <link>https://github.com/blueriver29/badcooli.git/content/europe/aca-hi-mashalhuj/</link>
-        <guid isPermaLink="true">https://github.com/blueriver29/badcooli.git/content/europe/aca-hi-mashalhuj/</guid>
+        <link>https://github.com/deepalgae/badcooli.git/content/europe/aca-hi-mashalhuj/</link>
+        <guid isPermaLink="true">https://github.com/deepalgae/badcooli.git/content/europe/aca-hi-mashalhuj/</guid>
         <description>Gujofo feohuva fitec zorsit ugewehjil objow buj aba zaho igcotezo.</description>
         <pubDate>Sat, 18 Dec 2021 20:59:02 +0000</pubDate>
-        <atom:link href="https://github.com/blueriver29/badcooli.git/content/europe/aca-hi-mashalhuj/" rel="self" />
+        <atom:link href="https://github.com/deepalgae/badcooli.git/content/europe/aca-hi-mashalhuj/" rel="self" />
         <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
         <media:content medium="image" width="300" height="125"
-                       url="https://github.com/blueriver29/badcooli.git/content/europe/aca-hi-mashalhuj/https://picsum.photos/seed/europe013/320/200" />
+                       url="https://github.com/deepalgae/badcooli.git/content/europe/aca-hi-mashalhuj/https://picsum.photos/seed/europe013/320/200" />
         <media:credit></media:credit>
         <media:description></media:description>
     </item>
     <item>
         <title>Ag zoh kuvoh.</title>
-        <link>https://github.com/blueriver29/badcooli.git/content/europe/ag-zoh-kuvoh/</link>
-        <guid isPermaLink="true">https://github.com/blueriver29/badcooli.git/content/europe/ag-zoh-kuvoh/</guid>
+        <link>https://github.com/deepalgae/badcooli.git/content/europe/ag-zoh-kuvoh/</link>
+        <guid isPermaLink="true">https://github.com/deepalgae/badcooli.git/content/europe/ag-zoh-kuvoh/</guid>
         <description>Us bo cawose fifu wecjirud ane bi micogkaf vocejjo pusgumta.</description>
         <pubDate>Sun, 20 Mar 2022 05:33:42 +0000</pubDate>
-        <atom:link href="https://github.com/blueriver29/badcooli.git/content/europe/ag-zoh-kuvoh/" rel="self" />
+        <atom:link href="https://github.com/deepalgae/badcooli.git/content/europe/ag-zoh-kuvoh/" rel="self" />
         <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
         <media:content medium="image" width="300" height="125"
                        url="https://github.com/blueriver29/badcooli.git/content/europe/ag-zoh-kuvoh/https://picsum.photos/seed/europe015/320/200" />
@@ -51,21 +51,21 @@
     </item>
     <item>
         <title>Alvedpi re jeej.</title>
-        <link>https://github.com/blueriver29/badcooli.git/content/europe/alvedpi-re-jeej/</link>
+        <link>https://github.com/deepalgae/badcooli.git/content/europe/alvedpi-re-jeej/</link>
         <guid isPermaLink="true">https://github.com/blueriver29/badcooli.git/content/europe/alvedpi-re-jeej/</guid>
         <description>Jikohki cogur favfu comet oriimo tatek hapaad kedacfi cu avjo.</description>
         <pubDate>Sun, 11 Apr 2021 09:30:15 +0000</pubDate>
-        <atom:link href="https://github.com/blueriver29/badcooli.git/content/europe/alvedpi-re-jeej/" rel="self" />
+        <atom:link href="https://github.com/deepalgae/badcooli.git/content/europe/alvedpi-re-jeej/" rel="self" />
         <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
         <media:content medium="image" width="300" height="125"
-                       url="https://github.com/blueriver29/badcooli.git/content/europe/alvedpi-re-jeej/https://picsum.photos/seed/europe06/320/200" />
+                       url="https://github.com/deepalgae/badcooli.git/content/europe/alvedpi-re-jeej/https://picsum.photos/seed/europe06/320/200" />
         <media:credit></media:credit>
         <media:description></media:description>
     </item>
     <item>
         <title>Atewac muvfet ekcepjiz.</title>
-        <link>https://github.com/blueriver29/badcooli.git/content/europe/atewac-muvfet-ekcepjiz/</link>
-        <guid isPermaLink="true">https://github.com/blueriver29/badcooli.git/content/europe/atewac-muvfet-ekcepjiz/</guid>
+        <link>https://github.com/deepalgae/badcooli.git/content/europe/atewac-muvfet-ekcepjiz/</link>
+        <guid isPermaLink="true">https://github.com/deepalgae/badcooli.git/content/europe/atewac-muvfet-ekcepjiz/</guid>
         <description>Hojkigig cu ka jowap pejiw zognuwfug riwgar ceami idigak mupac.</description>
         <pubDate>Sat, 15 May 2021 05:53:47 +0000</pubDate>
         <atom:link href="https://github.com/blueriver29/badcooli.git/content/europe/atewac-muvfet-ekcepjiz/" rel="self" />
@@ -110,14 +110,14 @@
         <atom:link href="https://github.com/blueriver29/badcooli.git/content/europe/bupkof-hefef-coteki/" rel="self" />
         <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
         <media:content medium="image" width="300" height="125"
-                       url="https://github.com/blueriver29/badcooli.git/content/europe/bupkof-hefef-coteki/https://picsum.photos/seed/europe017/320/200" />
+                       url="https://github.com/deepalgae/badcooli.git/content/europe/bupkof-hefef-coteki/https://picsum.photos/seed/europe017/320/200" />
         <media:credit></media:credit>
         <media:description></media:description>
     </item>
     <item>
         <title>Cogiv zuzo guguku.</title>
-        <link>https://github.com/blueriver29/badcooli.git/content/europe/cogiv-zuzo-guguku/</link>
-        <guid isPermaLink="true">https://github.com/blueriver29/badcooli.git/content/europe/cogiv-zuzo-guguku/</guid>
+        <link>https://github.com/deepalgae/badcooli.git/content/europe/cogiv-zuzo-guguku/</link>
+        <guid isPermaLink="true">https://github.com/deepalgae/badcooli.git/content/europe/cogiv-zuzo-guguku/</guid>
         <description>Bavop ko ripaza ahdikbu orazoj toero je dewikake ehinaf batnelmo.</description>
         <pubDate>Thu, 22 Apr 2021 19:09:59 +0000</pubDate>
         <atom:link href="https://github.com/blueriver29/badcooli.git/content/europe/cogiv-zuzo-guguku/" rel="self" />
@@ -1712,73 +1712,73 @@
     </item>
     <item>
         <title>Zowil cigikof sosped meflod remoj.</title>
-        <link>https://github.com/blueriver29/badcooli.git/content/world/zowil-cigikof-sosped-meflod-re/</link>
-        <guid isPermaLink="true">https://github.com/blueriver29/badcooli.git/content/world/zowil-cigikof-sosped-meflod-re/</guid>
+        <link>https://github.com/deepalgae/badcooli.git/content/world/zowil-cigikof-sosped-meflod-re/</link>
+        <guid isPermaLink="true">https://github.com/deepalgae/badcooli.git/content/world/zowil-cigikof-sosped-meflod-re/</guid>
         <description>Jekbo vebet roufves tocsi refci odeebo focekzip elo omekidip jowis.</description>
         <pubDate>Wed, 24 Nov 2021 10:44:30 +0000</pubDate>
-        <atom:link href="https://github.com/blueriver29/badcooli.git/content/world/zowil-cigikof-sosped-meflod-re/" rel="self" />
+        <atom:link href="https://github.com/deepalgae/badcooli.git/content/world/zowil-cigikof-sosped-meflod-re/" rel="self" />
         <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
         <media:content medium="image" width="300" height="125"
-                       url="https://github.com/blueriver29/badcooli.git/content/world/zowil-cigikof-sosped-meflod-re/https://picsum.photos/seed/world020/320/200" />
+                       url="https://github.com/deepalgae/badcooli.git/content/world/zowil-cigikof-sosped-meflod-re/https://picsum.photos/seed/world020/320/200" />
         <media:credit></media:credit>
         <media:description></media:description>
     </item>
     <item>
         <title>Zozzihavu rem ogbaf emi.</title>
-        <link>https://github.com/blueriver29/badcooli.git/content/world/zozzihavu-rem-ogbaf-emi/</link>
-        <guid isPermaLink="true">https://github.com/blueriver29/badcooli.git/content/world/zozzihavu-rem-ogbaf-emi/</guid>
+        <link>https://github.com/deepalgae/badcooli.git/content/world/zozzihavu-rem-ogbaf-emi/</link>
+        <guid isPermaLink="true">https://github.com/deepalgae/badcooli.git/content/world/zozzihavu-rem-ogbaf-emi/</guid>
         <description>Zefsiz casno ro del agacep wothe jajnof fifles cewwuogu rub.</description>
         <pubDate>Mon, 31 May 2021 05:32:22 +0000</pubDate>
         <atom:link href="https://github.com/blueriver29/badcooli.git/content/world/zozzihavu-rem-ogbaf-emi/" rel="self" />
         <dc:creator>J. Doe</dc:creator><!-- TODO: resolve cover image url either local or on a different site -->
         <media:content medium="image" width="300" height="125"
-                       url="https://github.com/blueriver29/badcooli.git/content/world/zozzihavu-rem-ogbaf-emi/https://picsum.photos/seed/world06/320/200" />
+                       url="https://github.com/deepalgae/badcooli.git/content/world/zozzihavu-rem-ogbaf-emi/https://picsum.photos/seed/world06/320/200" />
         <media:credit></media:credit>
         <media:description></media:description>
     </item>
     <item>
         <title>Landing Page</title>
         <link>https://github.com/blueriver29/badcooli.git/</link>
-        <guid isPermaLink="true">https://github.com/blueriver29/badcooli.git/</guid>
+        <guid isPermaLink="true">https://github.com/deepalgae/badcooli.git/</guid>
         <description>A brand new *zuix.js* project!</description>
         <pubDate>Thu, 16 Jan 2025 08:33:03 +0000</pubDate>
-        <atom:link href="https://github.com/blueriver29/badcooli.git/" rel="self" />
+        <atom:link href="https://github.com/deepalgae/badcooli.git/" rel="self" />
         <dc:creator></dc:creator>
     </item>
     <item>
         <title>About</title>
-        <link>https://github.com/blueriver29/badcooli.git/about/</link>
+        <link>https://github.com/deepalgae/badcooli.git/about/</link>
         <guid isPermaLink="true">https://github.com/blueriver29/badcooli.git/about/</guid>
         <description>A news blog template inspired by G.News</description>
         <pubDate>Thu, 16 Jan 2025 08:33:03 +0000</pubDate>
-        <atom:link href="https://github.com/blueriver29/badcooli.git/about/" rel="self" />
+        <atom:link href="https://github.com/deepalgae/badcooli.git/about/" rel="self" />
         <dc:creator></dc:creator>
     </item>
     <item>
         <title>News Blog</title>
-        <link>https://github.com/blueriver29/badcooli.git/home/</link>
-        <guid isPermaLink="true">https://github.com/blueriver29/badcooli.git/home/</guid>
+        <link>https://github.com/deepalgae/badcooli.git/home/</link>
+        <guid isPermaLink="true">https://github.com/deepalgae/badcooli.git/home/</guid>
         <description>A news blog template inspired by G.News</description>
         <pubDate>Thu, 16 Jan 2025 08:33:03 +0000</pubDate>
-        <atom:link href="https://github.com/blueriver29/badcooli.git/home/" rel="self" />
+        <atom:link href="https://github.com/deepalgae/badcooli.git/home/" rel="self" />
         <dc:creator></dc:creator>
     </item>
     <item>
         <title>Saved bookmarks</title>
-        <link>https://github.com/blueriver29/badcooli.git/saved/</link>
-        <guid isPermaLink="true">https://github.com/blueriver29/badcooli.git/saved/</guid>
+        <link>https://github.com/deepalgae/badcooli.git/saved/</link>
+        <guid isPermaLink="true">https://github.com/deepalgae/badcooli.git/saved/</guid>
         <description>A news blog template inspired by G.News</description>
         <pubDate>Thu, 16 Jan 2025 08:33:03 +0000</pubDate>
-        <atom:link href="https://github.com/blueriver29/badcooli.git/saved/" rel="self" />
+        <atom:link href="https://github.com/deepalgae/badcooli.git/saved/" rel="self" />
         <dc:creator></dc:creator>
     </item>
     <item>
         <title>Search</title>
-        <link>https://github.com/blueriver29/badcooli.git/search/</link>
-        <guid isPermaLink="true">https://github.com/blueriver29/badcooli.git/search/</guid>
+        <link>https://github.com/deepalgae/badcooli.git/search/</link>
+        <guid isPermaLink="true">https://github.com/deepalgae/badcooli.git/search/</guid>
         <description>A news blog template inspired by G.News</description>
         <pubDate>Thu, 16 Jan 2025 08:33:03 +0000</pubDate>
-        <atom:link href="https://github.com/blueriver29/badcooli.git/search/" rel="self" />
+        <atom:link href="https://github.com/deepalgae/badcooli.git/search/" rel="self" />
         <dc:creator></dc:creator>
     </item>
 </channel>
